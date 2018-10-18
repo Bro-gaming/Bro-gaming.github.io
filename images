@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Bro Gaming</title>
+    </head>
+    <body>
+    
+        <h1>Bro Gaming</h1>
+        <p>Dit zijn een paar mooie foto's i.v.m. het YouTube kanaal BroGaming.</p>
+        <img src="https://pbs.twimg.com/profile_images/844251107375353856/FuwSFmYf_400x400.jpg" alt="logo van BroGaming" width="200">
+        <img src="https://i.ytimg.com/vi/PqpMfo7BYGI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAv22v_UMp2FUFmPGXL9-n6_NkGPw" alt="thumbnail van een video op het YouTube event: Bytedays" width="300">
+        <img src="https://i.ytimg.com/vi/0QdiyA0nTcA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBz7NnGeVH7QKyYM62gF5mXWsAuuA" alt="thumbnail van YouTube video waarin BroGaming Minecraft Dropper speelt." width="300">
+        
+        <a href="index.html">Terug naar hoofpagina</a>
+        
+    </body>
+</html>
